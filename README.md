@@ -413,6 +413,3 @@ struct <#My RadialPad Style#>: RadialPadStyle {
       }
   }
 ````
-
-
-
