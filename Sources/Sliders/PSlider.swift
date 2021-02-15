@@ -7,7 +7,7 @@
 //
 
 import SwiftUI
-import Shapes
+import SwiftUI-Shapes
 import bez
 
 // MARK: - Configuration
