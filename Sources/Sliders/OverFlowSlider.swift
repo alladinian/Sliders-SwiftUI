@@ -7,7 +7,7 @@
 //
 
 import SwiftUI
-import Shapes
+import SwiftUI-Shapes
 
 @available(iOS 13.0, macOS 10.15, watchOS 6.0 , *)
 public struct OverflowSliderConfiguration {
